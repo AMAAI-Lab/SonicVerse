@@ -1,0 +1,20 @@
+{
+    "task_heads": {
+        "lmm_projector": {
+            "num_layers": 3,
+            "output_size": 4096,
+            "hidden_size": 4096,
+            "input_size": 768,
+            "input_channels": 13,
+            "width":  60,
+            "weight": 1.0,
+            "model_type": "mlp",
+            "requires_grad": true,
+            "use_aggregator": true,
+            "use_time_average": true,
+            "use_sigmoid": false,
+            "use_transpose": false
+        }
+    },
+    "task_projectors": {}
+}

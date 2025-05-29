@@ -1,0 +1,10 @@
+{
+    "pretrained_paths": [
+        {
+            "path": "/experiments/music_extraction/mlp_shared_multi_task_trial_002/train_002_epoch_45_step_40.pth",
+            "components": ["backbone", "instrument_detection", "genre_detection", "mood_detection", "key_detection", "vocals_detection"],
+            "use_prefix": true,
+            "prefix": "audio_mert_lmm_projector"
+        }
+    ]
+}
