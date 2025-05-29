@@ -1,7 +1,7 @@
 
 # 🎼 SonicVerse
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/amaai-lab/sonicverse) | [![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Space-blue?logo=huggingface)](https://huggingface.co/spaces/amaai-lab/SonicVerse) | [![Samples Page](https://img.shields.io/badge/Samples-Page-blue?logo=github)](https://annabeth97c.github.io/sonicverse/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/amaai-lab/sonicverse) | [![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Space-blue?logo=huggingface)](https://huggingface.co/spaces/amaai-lab/SonicVerse) | [![Samples Page](https://img.shields.io/badge/Samples-Page-blue?logo=github)](https://amaai-lab.github.io/SonicVerse/)
 
 An interactive demo for SonicVerse, a music captioning model, allowing users to input audio of up to 10 seconds and generate a natural language caption
 that includes a general description of the music as well as music features such as key, instruments, genre, mood / theme, vocals gender.
