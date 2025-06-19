@@ -39,8 +39,7 @@ pip install -e .
 
 ```bash
 python scripts/app.py
-
-
+```
 
 ## 🛠️ How to Train Locally
 
