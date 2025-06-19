@@ -41,7 +41,7 @@ pip install -e .
 python scripts/app.py
 ```
 
-## 🛠️ How to Train Locally
+## How to Train Locally
 
 ```bash
 
