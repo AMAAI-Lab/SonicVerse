@@ -8,6 +8,10 @@
 
 </div>
 
+<div align="center">
+<img src="media/sonicverse.jpeg" alt="SonicVerse Architecture" width="400"/>
+</div>
+
 ## Overview
 
 SonicVerse is a multi-task music captioning model that integrates caption generation with auxiliary music feature detection tasks such as key detection, vocals detection, and more. The model directly captures both low-level acoustic details as well as high-level musical attributes through a novel projection-based architecture that transforms audio input into natural language captions while simultaneously detecting music features through dedicated auxiliary heads. Additionally, SonicVerse enables the generation of temporally informed long captions for extended music pieces by chaining outputs from short segments using large language models, providing detailed time-informed descriptions that capture the evolving musical narrative.
